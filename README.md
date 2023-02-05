@@ -3,22 +3,15 @@
           <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Kunjan Ballawar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂♂;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
-      
 
 - 🔭 I’m currently Studying at **Masai School**
-- 
 - 🌱 I’m currently learning **MERN Stack**
-
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
-- 
 - 👨‍💻 All of my projects are available at https://kunjan0.github.io/
-- 
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about **javascript, HTML, CSS, Node.js, React, Redux, MongoDb, Vue.js, NextJS,Typescript, Data Structures and Algorithms**
-- 
 - 📫 How to reach me: **kballawar0@gmail.com**
-- 
 - 📄 Know about my experiences https://drive.google.com/file/d/1ffgxKg5w4QU7jqxaJ8g3Qgdyf46ZO9sT/view?usp=share_link
-
 
 
 
@@ -28,11 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjan0&label=Profile%20views&color=0e75b6&style=flat" alt="kunjan0" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunjan0" alt="kunjan0" /></a> 
-</p>
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunjan0" alt="kunjan0" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,7 +43,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunjan0&" alt="kunjan0" /></p>
 
-
+ 
 
 
 
