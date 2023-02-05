@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center" color:"orange">
+     <a href="https://github.com/Kunjan0/Kunjan-Ballawar/edit/main/README.md">
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Kunjan Ballawar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂♂;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+      </p>
 
 - 🔭 I’m currently Studying at **Masai School**
 - 🌱 I’m currently learning **MERN Stack**
@@ -8,12 +11,6 @@
 - 💬 Ask me about **javascript, HTML, CSS, Node.js, React, Redux, MongoDb, Vue.js, NextJS,Typescript, Data Structures and Algorithms**
 - 📫 How to reach me: **kballawar0@gmail.com**
 - 📄 Know about my experiences https://drive.google.com/file/d/1ffgxKg5w4QU7jqxaJ8g3Qgdyf46ZO9sT/view?usp=share_link
-
-
-<p align="center" color:"orange">
-     <a href="https://github.com/Kunjan0/Kunjan-Ballawar/edit/main/README.md">
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Kunjan Ballawar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂♂;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-      </p>
 
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="" />
 
