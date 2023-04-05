@@ -1,6 +1,6 @@
 <p align="center" color:"orange">
      <a href="https://github.com/Kunjan0/">
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Kunjan Ballawar; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂♂;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Kunjan Ballawar 🏽; I am a Full-stack%20web%20developer 💻; interested in Coding 🏃‍♂♂;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
 
