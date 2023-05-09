@@ -7,7 +7,7 @@
 - 🔭 I’m currently Studying at **Masai School**
 - 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
-- 👨‍💻 All of my projects are available at https://kunjan0.github.io/
+- 👨‍💻 All of my projects are available at [Portfolio](https://kunjan0.github.io/)
 - 💬 Ask me about **javascript, HTML, CSS, Node.js, React, Redux, MongoDb, Vue.js, NextJS,Typescript, Data Structures and Algorithms**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YXWkxeZDZ1uqKr1lxYY_rdti1ZTm6NWy/view?usp=share_link)
 
