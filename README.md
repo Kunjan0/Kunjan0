@@ -4,8 +4,7 @@
       </p>
       
 
-- 🔭 I studied at **Masai School**
-- 🌱 I’m currently working in **Techtonica**
+- 🌱 Ex **Techtonica** employee 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 - 👨‍💻 All of my projects are available at [Portfolio](https://kunjan0.github.io/)
 - 💬 Ask me about **javascript, HTML, CSS, JavaScript, Node.js, React, Redux, MongoDb, NextJS, Typescript, Data Structures and Algorithms**
