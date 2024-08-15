@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 - 👨‍💻 All of my projects are available at [Portfolio](https://kunjan0.github.io/)
 - 💬 Ask me about **javascript, HTML, CSS, JavaScript, Node.js, React, Redux, MongoDb, NextJS, Typescript, Data Structures and Algorithms**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DwJgqiAPPulmLEI_XPYm-TNUdc3d8dTH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q_4UXGLHsuLG6qWz5uPVoXeAwqObEODU/view?usp=sharing)
 
 
 
